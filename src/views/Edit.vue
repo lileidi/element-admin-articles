@@ -45,6 +45,7 @@
     },
     created(){
       this.fetch()
+      
     }
   }
 </script>
